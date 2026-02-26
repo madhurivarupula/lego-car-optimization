@@ -21,11 +21,18 @@ Maximize distance traveled by optimizing wheel size, wheelbase length, car lengt
 - Significant interactions observed (A×B, A×C, A×D).
 - Best setting: **A=-1, B=-1, C=-1, D=-1** (small wheels, short wheelbase, short car, 4 wheels).
 
-## Key Visuals
-(Images will be added in `/artifacts`)
 
 ## Files
-(Slide deck will be added in `/docs`)
+- Slide deck: [lego_doe_deck.pptx](docs/lego_doe_deck.pptx)
+
+## Key Visuals
+![Model Summary](artifacts/01_model_summary.png)
+![ANOVA](artifacts/02_anova.png)
+![Pareto Effects](artifacts/03_pareto_effects.png)
+![Main Effects](artifacts/03_main_effects.png)
+![Interaction Plot](artifacts/04_interaction_plot.png)
+![Residual Diagnostics](artifacts/05_residual_plots.png)
+![Cube Plot / Conclusion](artifacts/06_cube_plot_conclusion.png)
 
 ## Tools
 Minitab, DOE, ANOVA, regression diagnostics

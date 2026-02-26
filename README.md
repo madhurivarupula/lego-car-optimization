@@ -20,10 +20,10 @@ Maximize distance traveled by optimizing wheel size, wheelbase length, car lengt
 - Wheel size (A) was the dominant factor; small wheels improved distance.
 - Significant interactions observed (A×B, A×C, A×D).
 - Best setting: **A=-1, B=-1, C=-1, D=-1** (small wheels, short wheelbase, short car, 4 wheels).
-
-
+- 
 ## Files
-- Slide deck: [lego_doe_deck.pptx](docs/lego_doe_deck.pptx)
+- Slide deck (PDF): [lego_doe_deck.pdf](docs/lego_doe_deck.pdf)
+
 
 ## Key Visuals
 ![Model Summary](artifacts/01_model_summary.png)
